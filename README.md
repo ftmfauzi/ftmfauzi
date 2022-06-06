@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 
 [![Gmail Badge](https://img.shields.io/badge/-ftmusyafa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ftmusyafa@gmail.com)](mailto:ftmusyafa@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-fauzitm-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fauzitm/)](https://www.linkedin.com/in/fauzitm/) [![Github Badge](https://img.shields.io/badge/-ftmusyafa03-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ftmusyafa03)](https://github.com/ftmusyafa03)<p align='left'>
+[![Linkedin Badge](https://img.shields.io/badge/-fauzitm-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fauzitm/)](https://www.linkedin.com/in/fauzitm/) [![Github Badge](https://img.shields.io/badge/-ftmfauzi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ftmfauzi)](https://github.com/ftmfauzi)<p align='left'>
 
 <!--### Hi there 👋
 
