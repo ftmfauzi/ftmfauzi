@@ -1,7 +1,7 @@
 
 ### Hi there, I’m Fauzi TM 👋 
 - 🔭 I’m interested in DevOps Engineer
-- 🌱 I’m currently learning Jenkins & integrations with powerful tools like Docker, Ansible, AWS, GIT & more
+- 🌱 I’m currently learning the development of technology with powerful tools like Linux, Cloud computing, Jenkins, Docker, Kubernetes, Ansible, AWS, GCP, GitOps & more
 - 📫 How to reach me: 
 
 [![Gmail Badge](https://img.shields.io/badge/-ftmusyafa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ftmusyafa@gmail.com)](mailto:ftmusyafa@gmail.com) 
